@@ -30,13 +30,11 @@
 <li>
   <b>Study:</b> Graduated from Fatec Zona Leste and Etec Zona Leste in Systems Analysis and Development
 </li>
-<br><br>
+<br>
 </div>
 <div>
 <br>
-<br>
 <h2 align="center">꧁𓊈𒆜🅺🅽🅾🆆🅻🅴🅳🅶🅴𒆜𓊉꧂</h2>
-<br>
 <br>
 <p>
   <div align="center">
@@ -53,20 +51,16 @@
 </div>
 </p>
 <br>
-<br>
 <h2 align="center">꧁𓊈𒆜🅲🅾🅽🆃🅰🅲🆃 🅼🅴𒆜𓊉꧂</h2>
-<br>
 <br>
   <div align="center">
 <img src="https://i.pinimg.com/originals/a9/76/7d/a9767d35192a99c9a45b5376fff4a709.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<br>
 <p align="center">█▓▒­░⡷⠂Here are some social and contact methods⠐⢾░▒▓█</p>
 <br>
 <p align="center"><a href="https://www.linkedin.com/in/gabriel-pacheco-6289ab1b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:gabriel.pvergino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href="https://www.reddit.com/u/Aoki_Aozaki" target="_blank"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500"/></a></p>
 </div>
-<br>
 <br>
 <br>
 <div>
