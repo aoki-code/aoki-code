@@ -63,7 +63,7 @@
 <br>
 <p align="center">█▓▒­░⡷⠂Here are some social and contact methods⠐⢾░▒▓█</p>
 <br>
-<p align="center"><a href="https://www.linkedin.com/in/gabriel-pacheco-6289ab1b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:gabriel.pvergino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href="https://www.reddit.com/u/Aoki_Aozaki" target="_blank"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/gabrielvergino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:gabriel.pvergino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> <a href="https://www.reddit.com/u/Aoki_Aozaki" target="_blank"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500"/></a></p>
 </div>
 <br>
 <br>
