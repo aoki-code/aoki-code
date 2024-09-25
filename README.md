@@ -49,7 +49,7 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><br> 
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br><br>
 <div  align="center" style="margin-bottom:100px">
-<img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoki-code&show_icons=true&theme=nord&layout=compact" />
+<img width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoki-code&theme=tokyonight"/>
 </div>
 </p>
 <br>
