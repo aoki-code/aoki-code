@@ -12,6 +12,7 @@
 <br>
 <h2 align="center">꧁𓊈𒆜🅰🅱🅾🆄🆃 🅼🅴𒆜𓊉꧂</h2>
 <br>
+<br>
   <div align="center">
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
@@ -37,6 +38,7 @@
 <br>
 <h2 align="center">꧁𓊈𒆜🅺🅽🅾🆆🅻🅴🅳🅶🅴𒆜𓊉꧂</h2>
 <br>
+<br>
 <p>
   <div align="center">
 <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp" align="right" width="360px" height="300px">
@@ -54,6 +56,7 @@
 <br>
 <h2 align="center">꧁𓊈𒆜🅲🅾🅽🆃🅰🅲🆃 🅼🅴𒆜𓊉꧂</h2>
 <br>
+<br>
   <div align="center">
 <img src="https://i.pinimg.com/originals/a9/76/7d/a9767d35192a99c9a45b5376fff4a709.gif" align="right" width="373.5px" height="208.5px">
   </div>
@@ -66,6 +69,7 @@
 <br>
 <div>
 <h2 align="center">꧁𓊈𒆜🅴🅽🅳𒆜𓊉꧂</h2>
+<br>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
