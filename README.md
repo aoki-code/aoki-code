@@ -17,6 +17,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <br>
+<br>
 <li>
  <b>Name:</b> Gabriel</li>
 <li>
@@ -43,6 +44,7 @@
   <div align="center">
 <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp" align="right" width="360px" height="300px">
   </div>
+<br>
 </div>
 <div>
   <br>
@@ -60,6 +62,7 @@
   <div align="center">
 <img src="https://i.pinimg.com/originals/a9/76/7d/a9767d35192a99c9a45b5376fff4a709.gif" align="right" width="373.5px" height="208.5px">
   </div>
+<br>
 <br>
 <p align="center">█▓▒­░⡷⠂Here are some social and contact methods⠐⢾░▒▓█</p>
 <br>
