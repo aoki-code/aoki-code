@@ -38,7 +38,6 @@
 <br>
 <h2 align="center">꧁𓊈𒆜🅺🅽🅾🆆🅻🅴🅳🅶🅴𒆜𓊉꧂</h2>
 <br>
-<p>
   <div align="center">
 <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp" align="right" width="360px" height="300px">
   </div>
