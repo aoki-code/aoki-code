@@ -26,7 +26,7 @@
 <b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>Hobbys:</b> Game Development, Music, Storytelling
+<b>Hobbys:</b> Game and software development, Music, Literature
 </li>
 <li>
   <b>Study:</b> Graduated from Fatec Zona Leste and Etec Zona Leste in Systems Analysis and Development
